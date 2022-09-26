@@ -1,0 +1,5 @@
+'{"name":"John", "age":30, "car":null}'
+
+//If you parse the JSON string with a JavaScript program, you can access the data as an object:
+let personName = obj.name;
+let personAge = obj.age;
